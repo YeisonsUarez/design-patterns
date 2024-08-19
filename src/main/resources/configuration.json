@@ -1,0 +1,25 @@
+{
+  "configurations": [
+    {
+      "userType": "BASIC",
+      "notifications": [
+        "EMAIL"
+      ]
+    },
+    {
+      "userType": "MEDIUM",
+      "notifications": [
+        "EMAIL",
+        "SMS"
+      ]
+    },
+    {
+      "userType": "ADVANCED",
+      "notifications": [
+        "EMAIL",
+        "SMS",
+        "PUSH"
+      ]
+    }
+  ]
+}
